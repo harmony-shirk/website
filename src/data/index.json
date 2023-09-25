@@ -1,0 +1,39 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "link": "https://www.fisherinvestments.com/en-us",
+      "src": "./img/fisher-logo.jpg",
+      "title": "Application Developer Intern",
+      "description": "Built an interactive data visualization dashboard through ServiceNow for the application development team."
+
+    },
+    {
+      "id": "2",
+      "link": "https://cascadiawebdesigns.com/",
+      "src": "./img/fisher-logo.jpg",
+      "title": "Software Developer",
+      "description": "Developed mobile-focused, high-performing websites using HTML/CSS, JavaScript, React, and Eleventy.js."
+
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Flipflapflop",
+      "description": "A spin on the classic mobile game Flappy Bird. This 3D game allows players to collect coins which increases the speed of the player.",
+      "link": "https://github.com/GhislaineNg/unity-flipflapflop",
+      "text": "View in GitHub",
+      "demo": "https://www.youtube.com/watch?v=kBWaTseXHdw&ab_channel=HarmonyShirk"
+
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Campus Maps",
+      "description": "An application that finds the shortest path between two landmarks across the university campus."
+    }
+  ]
+}
