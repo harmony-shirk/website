@@ -360,7 +360,7 @@ h3 {
   flex: 1 0 0;
   border-radius: 10.6px;
   background: var(--bg-shade);
-  min-height: 250px;
+  height: 400px;
 
 }
 
@@ -466,11 +466,15 @@ h3 {
 
 .portfolio-section-img {
   border-radius: 8px;
-  width: 100%;
+  width: 450px;
+  height: 225px;
+  object-fit: contain;
 }
 
-.portfolio-section-img >img {
-  width: 100%;
+.portfolio-section-img > img {
+  width: 450px;
+  height: 225px;
+  object-fit: contain;
 }
 
 .portfolio-section-card {
@@ -484,6 +488,9 @@ h3 {
   cursor: pointer;
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
+  box-sizing: content-box;
+  height: 500px;
+  max-width: 450px;
 }
 
 .portfolio-section-card-content {
